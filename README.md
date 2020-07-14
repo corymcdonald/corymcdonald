@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Ruby and Go  
+- 🌱 I’m currently learning Kubernetes 
+- 📫 How to reach me: [Twitter](https://twitter.com/corywmcdonald), [LinkedIn](https://www.linkedin.com/in/corywmcdonald/), or [my website](https://corywmcdonald.com/)
+- 😄 Pronouns: He/Him
+
 <!--
 **corymcdonald/corymcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
